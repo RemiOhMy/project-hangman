@@ -1,0 +1,21 @@
+--- !ruby/object:SaveFile
+hidden_word:
+- p
+- e
+- "n"
+- "n"
+- "y"
+guess_count: 6
+correct_guesses:
+- e
+incorrect_guesses:
+- r
+- s
+- t
+- a
+word_progress:
+- _
+- e
+- _
+- _
+- _
